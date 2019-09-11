@@ -1,22 +1,22 @@
 ---
-title: "Challenge 5"
+title: "Challenge 6"
 subtitle: "Splitting up is hard to do."
 output:
   html_document:
     df_print: paged
 ---
 
-# Challenge 5
+# Challenge 6
 The goal of this challenge is to begin synthesize what you have learned about R, bash, and demultiplexing so that you can demultiplex a new dataset, to prepare it for running through DADA2.  You will start with raw FASTQ files and a map file that will be supplied to you.  You will find this [overview of the DADA2 pipeline](https://gitlab.oit.duke.edu/IBIEM/IBIEM_2018_2019/blob/master/content/lessons/dada2_pipeline_toc.md) very helpful in completing this assignment.
 
 You will find the FASTQs, map file, and an md5 checksum file in `/data/tutorial_data/ibiem2016_subset`.  The name of the map file is `ibiem_2017_map_v3.txt`
 
 You must fill in the chunks below as indicated, but you are free to add other chunks too.  To submit this assignment for full credit you should *commit* and *push*:
 
-1. This file (`challenge5_assignment.Rmd`)
-2. The knited version of this file (`challenge5_assignment.html`)
+1. This file (`challenge6_assignment.Rmd`)
+2. The knited version of this file (`challenge6_assignment.html`)
 
-These are the *ONLY* files you should include in your repo.  I strongly recommend that you put temporary files in a subdirectory of `/tmp`, for example `/tmp/scratch/challenge5`.  If you don't follow this advice, but instead put temporary files in your repo directory, you *must* be sure not to commit them to your repo, you will lose points if you do.
+These are the *ONLY* files you should include in your repo.  I strongly recommend that you put temporary files in a subdirectory of `/tmp`, for example `/tmp/scratch/challenge6`.  If you don't follow this advice, but instead put temporary files in your repo directory, you *must* be sure not to commit them to your repo, you will lose points if you do.
 
 
 
