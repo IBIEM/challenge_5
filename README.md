@@ -34,6 +34,14 @@ For this assignment and future assignments we will be checking for:
 |         10 | Git Commit Message Quality |
 |          5 | SessionInfo                |
 
+### Code Quality
+[Writing Good Software](http://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/index.html)
+
+  - Use informative variable names
+  - Make code readable
+  - Do NOT use [magic numbers](https://en.wikipedia.org/wiki/Magic_number_(programming)#Unnamed_numerical_constants)
+  - Do not hard code values that can be extracted from the data
+  - Do not repeat code: use loops or functions where appropriate
 
 ### Git Commit Message Quality
   - For some helpful hints [search the internet for "writing good commit messages"](https://duckduckgo.com/?q=writing+good+commit+messages)
