@@ -1,6 +1,6 @@
 # Challenge 6: Splitting up is hard to do
 - *Assigned: September 27, 2019*
-- *Due: at 6pm on October 11, 2019*
+- *Due: at 6pm on October 18, 2019*
 
 ## Assignment
 You should have received an email invitation to access this assigment in Github Classroom.  If you haven't received it, please [post an Issue](https://github.com/IBIEM/community/issues)
