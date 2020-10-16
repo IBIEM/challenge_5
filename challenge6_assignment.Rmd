@@ -6,6 +6,8 @@ output:
     df_print: paged
 ---
 
+
+
 # Challenge 6
 The goal of this challenge is to begin to synthesize what you have learned about R, bash, and demultiplexing.  You will demultiplex a new dataset to prepare it for DADA2.  You will start with raw FASTQ files and a map file that will be supplied to you.  You will find this [overview of the DADA2 pipeline](https://github.com/ibiem-2019/ibiem_2019_material/blob/master/content/lessons/dada2_pipeline_toc.md) very helpful in completing this assignment.
 
