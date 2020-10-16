@@ -9,7 +9,7 @@ The goal of this challenge is to begin synthesize what you have learned about R,
 
 You will need to:
 
-1. Initialize a new project in RStudio based on this repository (you might want to review the [relevant instructions from Challenge 1](https://github.com/IBIEM/challenge_1/blob/master/README.Rmd#initialize-a-new-project))
+1. Initialize a new project in RStudio based on this repository (you might want to review the [relevant instructions from Challenge 1](https://github.com/IBIEM/challenge_1/blob/master/README.md#initialize-a-new-project))
 
 2. Fill the blank R code chunks in [challenge6_assignment.Rmd](challenge6_assignment.Rmd)
 
