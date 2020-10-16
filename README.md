@@ -13,9 +13,9 @@ You will need to:
 
 2. Fill the blank R code chunks in [challenge6_assignment.Rmd](challenge6_assignment.Rmd)
 
-3. Modify the header of [challenge6_assignment.Rmd](challenge6_assignment.Rmd) (you might want to review the [relevant instructions from Challenge 1](https://github.com/IBIEM/challenge_1/blob/master/README.Rmd#modify-the-header)
+3. Modify the header of [challenge6_assignment.Rmd](challenge6_assignment.Rmd) (you might want to review the [relevant instructions from Challenge 1](https://github.com/IBIEM/challenge_1/blob/master/README.md#modify-the-header)
 
-4. Submit the Assignment (you might want to review the [relevant instructions from Challenge 1](https://github.com/IBIEM/challenge_1/blob/master/README.Rmd#submitting-the-assignment) ).  You should submit the following:
+4. Submit the Assignment (you might want to review the [relevant instructions from Challenge 1](https://github.com/IBIEM/challenge_1/blob/master/README.md#submitting-the-assignment) ).  You should submit the following:
   - `challenge6_assignment.Rmd` : your modified version of the R Notebook that you received in your repo
   - `challenge6_assignment.html` : the output from knitting your revised `challenge6_assignment.Rmd`
 
